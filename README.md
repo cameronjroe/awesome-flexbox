@@ -90,8 +90,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
 #### Videos
-* [ ] [CSS Layout o ontem, o hoje e o depois (pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
-* [ ] [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
+* [x] [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
 * [ ] [CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)](https://www.youtube.com/watch?v=H1lREysgdgc)
 * [ ] [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
 * [ ] [Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
